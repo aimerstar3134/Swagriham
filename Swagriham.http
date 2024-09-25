@@ -1,6 +1,0 @@
-@Swagriham_HostAddress = http://localhost:5160
-
-GET {{Swagriham_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
